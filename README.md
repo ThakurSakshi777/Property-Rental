@@ -1,5 +1,24 @@
 # React + Vite
 
+# Property Rental Website 🏠  
+
+A responsive property rental platform built using React.js, where users can explore trending houses, rooms, villas, and more with a modern UI and category-based browsing experience.  
+## Features  
+- Home page with categorized listings (Trending, Rooms, Pool Houses, etc.)  
+- Beautiful card layout for property previews  
+- Search bar for destination filtering  
+- "List Your Home" feature UI  
+- Responsive and mobile-friendly design  
+
+## Technologies Used  
+- React.js  
+- HTML & CSS  
+- JavaScript  
+
+## Purpose  
+This project simulates a real estate rental platform, designed to practice front-end development skills and UI design using React.  
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
